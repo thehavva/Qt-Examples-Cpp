@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/MyFiles">
+        <file>ResourceFile.pro</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
