@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Open.png</file>
+        <file>new.jpg</file>
+        <file>save.gif</file>
+    </qresource>
+</RCC>
