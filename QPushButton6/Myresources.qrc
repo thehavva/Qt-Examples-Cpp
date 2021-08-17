@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>cancel.jpg</file>
+        <file>OK.jpg</file>
+    </qresource>
+</RCC>
